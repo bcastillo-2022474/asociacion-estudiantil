@@ -16,22 +16,20 @@
 **Asociación de facultad/carrera:** Asociación de Estudiantes de Ciencias de la Computación y TI
 
 **Misión (150 caracteres máximo):**
-Transformar la experiencia universitaria con acciones concretas que construyen el puente entre el aula y la industria tech. Ejecutamos.
+Cerrar la brecha entre academia e industria tech. Desarrollamos habilidades técnicas reales y abrimos puertas laborales mediante acción directa.
 
 **Visión (150 caracteres máximo):**
-Consolidar la asociación como el ecosistema donde cada estudiante encuentre herramientas y oportunidades para sobresalir profesionalmente.
+Convertir a UVG en el hub tech de Guatemala donde estudiantes desarrollen habilidades competitivas y accedan a oportunidades reales.
 
 **Valores de la planilla:**
 
-- **ACCESO SIN RESTRICCIONES:** Democratizamos las oportunidades. Horas beca, horas de extensión y conexiones laborales para todos, no solo para los cercanos al poder.
+- **HABILIDADES SOBRE TEORÍA:** Priorizamos el desarrollo técnico aplicado. Programación real, herramientas actuales de la industria, proyectos que importan. No más eventos básicos sin sustancia técnica.
 
-- **EJECUCIÓN SOBRE PROMESAS:** Nuestra experiencia en la industria respalda cada propuesta. Hacemos, no solo hablamos.
+- **INDUSTRIA EN EL CAMPUS:** Traemos empresas, comunidades tech y profesionales a UVG. Hackathons, charlas técnicas, mentoría con devs activos. Cerramos la brecha con el mercado laboral.
 
-- **COMUNIDAD REAL:** Rompemos el estereotipo del "nerd antisocial". Creamos espacios donde la técnica y la socialización coexisten.
+- **OPORTUNIDADES PARA TODOS:** Creamos espacios donde cada estudiante, sin importar su año o nivel técnico, pueda acceder a networking, mentoría profesional, experiencias de aprendizaje y conexiones laborales.
 
-- **TRANSPARENCIA TOTAL:** Cada actividad, decisión y recurso será visible. Cero operaciones tras bambalinas.
-
-- **MENTORÍA PRÁCTICA:** Conectamos estudiantes con profesionales reales, preparándolos para el mundo laboral desde el semestre uno.
+- **COMUNIDAD TECH REAL:** Más allá de eventos obligatorios. Creamos espacios donde los estudiantes de CS se sientan parte de algo grande, conecten con peers y construyan red profesional.
 
 **Enlaces de las Redes Sociales:**
 [PENDIENTE - Agregar enlaces de Instagram, Facebook, etc.]
