@@ -178,7 +178,7 @@ Establecer a UVG como un hub tecnológico en Guatemala mediante la creación de 
 Todos los estudiantes de Ciencias de la Computación y TI de UVG, principalmente aquellos interesados en desarrollar habilidades técnicas aplicadas y establecer conexiones profesionales tempranas. Beneficio secundario para toda la facultad de ingeniería.
 
 **Breve descripción:**
-TechConnect UVG es un programa que trae a la universidad a las principales comunidades y empresas tecnológicas de Guatemala. A través de charlas técnicas mensuales, workshops prácticos y eventos de networking, los estudiantes tendrán acceso directo a profesionales de la industria, aprenderán sobre tecnologías emergentes y tendrán oportunidades de empleo y pasantías. El programa incluye alianzas confirmadas con Cursor Guatemala y GuateJug, con potencial de expansión a otras comunidades tech.
+TechConnect UVG es un programa que trae a la universidad a las principales comunidades y empresas tecnológicas de Guatemala. A través de charlas técnicas mensuales, workshops prácticos y eventos de networking, los estudiantes tendrán acceso directo a profesionales de la industria, aprenderán sobre tecnologías emergentes y tendrán oportunidades de empleo y pasantías. El programa incluye alianzas tentivas con Cursor Guatemala y GuateJug, con potencial de expansión a otras comunidades tech.
 
 **Acciones por Realizar:**
 
@@ -217,10 +217,10 @@ TechConnect UVG es un programa que trae a la universidad a las principales comun
 
 **Presupuesto:**
 - Material promocional (banners, stickers, flyers): Q1,500.00
-- Refrigerios para eventos (estimado 4 eventos, 100 personas c/u): Q8,000.00
+- Refrigerios para eventos (estimado 4 eventos, 40 personas c/u): Q3,200.00
 - Equipo técnico (adaptadores, cables, backup tech): Q1,000.00
 - Contingencia: Q500.00
-- **Total: Q11,000.00**
+- **Total: Q6,200.00**
 
 **Recursos Humanos:**
 - Miembros de la junta directiva de la asociación
@@ -248,7 +248,7 @@ Organizar la primera hackathon universitaria de UVG enfocada en desarrollo de so
 Estudiantes de Ciencias de la Computación y TI de todos los años de UVG. Beneficiarios secundarios: estudiantes de otras ingenierías con interés en programación, y empresas patrocinadoras que buscan talento joven.
 
 **Breve descripción:**
-UVG CodeJam es una hackathon de 24-36 horas donde equipos de estudiantes desarrollan soluciones de software a retos planteados por empresas patrocinadoras. El evento incluye mentoría de profesionales, talleres express de tecnologías específicas, y premios para los mejores proyectos. Con el apoyo confirmado de Cursor Guatemala y potenciales patrocinadores corporativos, el evento busca convertirse en una tradición anual que posicione a UVG en el mapa tech de Guatemala.
+UVG CodeJam es una hackathon de 24-36 horas donde equipos de estudiantes desarrollan soluciones de software a retos planteados por empresas patrocinadoras. El evento incluye mentoría de profesionales, talleres express de tecnologías específicas, y premios para los mejores proyectos. Con el apoyo tentivo de Cursor Guatemala y potenciales patrocinadores corporativos, el evento busca convertirse en una tradición anual que posicione a UVG en el mapa tech de Guatemala.
 
 **Acciones por Realizar:**
 
@@ -378,10 +378,10 @@ El Programa de Mentoría conecta estudiantes con profesionales del sector tech q
 
 ## RESUMEN PRESUPUESTAL TOTAL
 
-**PROYECTO 1 - TechConnect UVG:** Q11,000.00
+**PROYECTO 1 - TechConnect UVG:** Q6,200.00
 **PROYECTO 2 - UVG CodeJam:** Q34,000.00 (se buscará reducir con patrocinios)
 **PROYECTO 3 - Programa de Mentoría:** Q5,000.00
 
-**TOTAL GENERAL:** Q50,000.00
+**TOTAL GENERAL:** Q45,200.00
 
 Se buscará activamente patrocinio corporativo para reducir la carga presupuestal en la universidad, especialmente para la hackathon que tiene mayor potencial de atracción de sponsors.
